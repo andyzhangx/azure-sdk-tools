@@ -9,7 +9,7 @@
   <?define azureSdkVersion="1.8" ?>
   <?define versionedStartMenuFolder="Windows Azure" ?>
 
-  <Product Id="*"
+  <Product Id="93cc2727-dab7-47b5-a191-5072a10071ce"
            Name="$(var.productName)"
            Language="1033"
            Version="$(var.version)"
